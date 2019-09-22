@@ -1,0 +1,14 @@
+<Ui xmlns="http://www.blizzard.com/wow/ui/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.blizzard.com/wow/ui/..\FrameXML\UI.xsd">
+	<Script file="LibItemNames.lua"/>
+	<Script file="retail/enUS/ItemNames.lua"/>
+	<Script file="retail/deDE/ItemNames.lua"/>
+	<Script file="retail/esES/ItemNames.lua"/>
+	<Script file="retail/esMX/ItemNames.lua"/>
+	<Script file="retail/frFR/ItemNames.lua"/>
+	<Script file="retail/itIT/ItemNames.lua"/>
+	<Script file="retail/koKR/ItemNames.lua"/>
+	<Script file="retail/ptBR/ItemNames.lua"/>
+	<Script file="retail/ruRU/ItemNames.lua"/>
+	<Script file="retail/zhCN/ItemNames.lua"/>
+	<Script file="retail/zhTW/ItemNames.lua"/>
+</Ui>
