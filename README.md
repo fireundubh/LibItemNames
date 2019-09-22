@@ -1,8 +1,6 @@
-# World of Warcraft Item ID/Name Tables
+# LibItemNames for World of Warcraft
 
-## What are these tables?
-
-This repository contains Lua tables that pair World of Warcraft item IDs and item names.
+LibItemNames is a library that contains Lua tables pairing item IDs and item names.
 
 ## Locales
 
